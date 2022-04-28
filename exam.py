@@ -1,0 +1,6 @@
+print("Course1: Career skills for it")
+print("credit1: 1")
+print("Course2:Devops Engineering Practice")
+print("credit2: 3")
+print("Course3: ADBMS")
+print("credit3: 3")
